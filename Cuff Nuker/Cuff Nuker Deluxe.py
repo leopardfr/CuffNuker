@@ -8,7 +8,7 @@ from datetime import datetime
 now = datetime.now()
 ftime = now.strftime("%H:%M:%S")
 
-print ("Made by leopardfr on discord add me for help")
+print ("Welcome Back How Will ISIS Be Terrorizing Today Sir?")
 session = requests.Session()
 token = input("Token: ")
 prefix = input("Prefix: ")
